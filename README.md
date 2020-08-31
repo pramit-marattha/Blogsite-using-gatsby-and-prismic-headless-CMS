@@ -1,8 +1,16 @@
 # Prismic Gatsby  Blog
+Modern Blogsite using Gatsby and Prismic.Prismic is a Content Management System, a tool for editing online content. Also known as a headless CMS, an API CMS, a content platform, a disruptive content-as-a-service digital experience and Gatsby is a React-based open source framework with performance, scalability and security built-in.
 
-> [Gatsby](https://www.gatsbyjs.org/) example blog project with content managed in [Prismic](https://prismic.io)
+---
+## It's Live 🎉 Visit here ==>https://modernblog-prismic.netlify.app/
+---
+![blogsite](https://user-images.githubusercontent.com/37651620/91766227-f7808300-ebf9-11ea-8ce3-1f352b4e4a5d.png)
 
-## Check out our article for a step by step guide to getting this project up and running
+---
+
+## Step by step guide 
+
+![](https://user-images.githubusercontent.com/37651620/91765539-e3885180-ebf8-11ea-8df2-64f92d7c3e8a.png)
 
 > [Prismic project guide](https://intercom.help/prismicio/examples/gatsby-js-samples/sample-blog-with-api-based-cms-gatsbyjs)
 
@@ -54,8 +62,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
 
 ## License
 
